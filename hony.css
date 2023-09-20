@@ -1,0 +1,255 @@
+h1{
+    color: rgb(15, 15, 15);
+    padding: 10px;
+    border-radius: 20px;
+    font-family: system-ui;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+p{
+    color: rgb(41, 63, 63);
+}
+input{
+    width: 80%;
+    height: 30px;
+    outline: none;
+    border: none;
+    background-color: burlywood;
+    margin: 4px 0px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 4px;
+    translate: 100px;
+}
+#total{
+    background: rgb(168, 59, 59);
+    padding: 5px 2px;
+    border-radius: 5px;
+
+}
+input:focus{
+    background: #6a497a;
+    transform: scale(1.0);
+
+}
+.price input{
+    width: 20%;
+}
+#total::before{
+    content: 'Total:';
+}
+button{
+    background: rgb(42, 38, 99);
+    width: 100%;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+
+}
+button:hover{
+    background: rgb(33, 51, 158);
+    letter-spacing: 1px;
+    
+
+}
+.btnsearch{
+   
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.btnsearch button{
+    width: 45%;
+    border-radius: 8px;
+}
+table{
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+table th{
+    text-transform: uppercase;
+}
+th,td{
+    padding: 5px;
+}
+button{
+    background: rgb(42, 38, 99);
+    width: 100%;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+
+}
+
+
+button:hover{
+    background: rgb(8, 223, 177);
+    letter-spacing: 1px;
+}
+
+
+a{
+    background: rgb(19, 19, 19);
+    width: 100%;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    padding: 2px;
+    border-radius: 5px;
+    color: rgb(147, 149, 151);
+    font-family: system-ui;
+
+}
+
+#solde:hover{
+    background: #7e273d;
+}
+
+#ferm:focus {
+    background: #1adf94;
+}
+
+#jerm:focus {
+    background: #24c09e;
+}
+
+#tef:focus {
+    background: #3540a8;
+}
+
+#moon:focus {
+    background: #3537a8;
+}
+
+h3{
+    color: rgb(17, 16, 16);
+    background: #bda72e;
+    padding: 6px;
+    border-radius: 15px;
+    font-family: system-ui;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(124, 87, 39);
+    border-radius: 12px;
+    text-align: center;
+}
+
+#go {
+    color: aliceblue;
+}
+
+#tef{
+    background-color: rgb(24, 20, 58);
+}
+
+#moon{
+    background-color: rgb(24, 20, 58);
+}
+
+#go{
+    color: rgb(24, 20, 58);
+}
+
+#der{
+    background-color: rgb(24, 20, 58);
+}
+
+#cup{
+    background-color: rgb(24, 20, 58);
+
+}
+
+#coup{
+    background-color: rgb(24, 20, 58);
+}
+
+#bear{
+
+    background-color: rgb(24, 20, 58);
+
+}
+
+
+
+#qo{
+    color: rgb(24, 20, 58);
+}
+
+#wo{
+    color: rgb(24, 20, 58);
+}
+
+#eo{
+    color: rgb(24, 20, 58);
+}
+
+#ro{
+    color: rgb(24, 20, 58);
+}
+
+#to{
+    color: rgb(24, 20, 58);
+}
+
+#yo{
+    color: rgb(24, 20, 58);
+}
+
+#wende{
+    background-color: rgb(24, 20, 58);
+}
+
+
+#flwo{
+    color: rgb(24, 20, 58);
+}
+
+#crops{
+    background-color: rgb(24, 20, 58);
+}
+
+#semon{
+    color: rgb(24, 20, 58);
+}
+
+#bobs{
+    background-color: rgb(24, 20, 58);
+}
+
+#tombel{
+    color: rgb(24, 20, 58);
+}
+
+#mall{
+    background-color: rgb(24, 20, 58);
+}
+
+#yogest{
+    color: rgb(24, 20, 58);
+}
+
+#snal{
+    background-color: rgb(24, 20, 58);
+}
+
+#torost{
+    color: rgb(24, 20, 58);
+}
+
+#modr{
+    background-color: rgb(24, 20, 58);
+}
+
+#frosty{
+    color: rgb(24, 20, 58);
+}
+
+#promiss{
+    background-color: silver;
+    color: #232124;
+}
